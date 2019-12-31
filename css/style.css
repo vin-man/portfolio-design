@@ -1,0 +1,622 @@
+/* project 1 */
+
+.BlackThemep1{
+    background: black !important;
+}
+
+.contentp1{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    /* identical to box height, or 78% */
+    letter-spacing: 1.1px;
+    color: #FFFFFF;
+}
+.aboutp1{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 28px;
+    /* identical to box height, or 44% */
+    letter-spacing: 1.1px;
+    color: #FFFFFF;
+    margin-top: 8%;
+    margin-bottom: 5%;
+    /* width: 50%;  */
+    text-align: center; 
+    margin-left: 35%;
+    margin-right: 35%;
+    border-bottom: 5px solid #613EEA; 
+    line-height: 0.1em;
+}
+.aboutp1 span, .aboutp1app span{
+    background:#000000; 
+    padding:0 10px; 
+}
+.aboutp1app{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 28px;
+    /* identical to box height, or 44% */
+    letter-spacing: 1.1px;
+    color: #FFFFFF;
+    margin-top: 8%;
+    margin-bottom: 5%;
+    /* width: 50%;  */
+    text-align: center; 
+    margin-left: 25%;
+    margin-right: 25%;
+    border-bottom: 5px solid #54D3AD; 
+    line-height: 0.1em;
+}
+.userPersona{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 20px;
+    /* identical to box height, or 44% */
+    letter-spacing: 1.1px;
+    color: #FFFFFF;
+    margin-top: 12%;
+    border-bottom: 5px solid #613EEA; 
+    line-height: 0.1em;
+    margin-right: 60%;
+}
+
+.userPersona span{
+    background:#000000; 
+    padding-right: 20px;;
+}
+
+.box{
+    background: white;
+    padding: 10%;
+    padding-top: 5%;
+    margin: 12%;
+    border-radius: 50px;;
+}
+
+.headerp1{
+    display: flex;
+}
+
+.top{
+    flex: 1;
+    text-align: left;
+    margin-top: 8%;
+}
+.profilePic{
+    float: 1;
+    text-align: right;
+    margin-right: 8%;
+    border: 4px solid #63E2BC;
+    border-radius: 50%;
+    padding: 3px;
+    overflow: hidden;
+}
+
+.head{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 56%;
+    /* or 56% */
+    margin-bottom: 3%;
+    letter-spacing: 1.1px;
+    color: #613EEA;
+}
+.age{
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 62%;
+    /* or 62% */
+    letter-spacing: 1.1px;
+    color: #0D0D0E;
+    padding-top: 1%;
+}
+
+.aboutinsidep1{
+    margin-top: 8%;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 900;;
+    font-size: 24px;
+    line-height: 36px;
+    /* or 155% */
+    /* letter-spacing: 1.1px; */
+    color: #0D0D0E;
+    border-bottom: 3px solid #54D3AD; 
+    line-height: 0.01em;
+    margin-right: 75%;
+    margin-bottom: 4%;;
+}
+.aboutinsidep1 span{
+    background: #fff; 
+    padding-right: 8px;
+}
+.aboutContent{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 172% */
+    letter-spacing: 1.1px;
+    color: #0D0D0F;
+}
+
+.painPoints{
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 20px;
+    /* identical to box height, or 44% */
+    letter-spacing: 1.1px;
+    color: #FFFFFF;
+    margin-top: 12%;
+    border-bottom: 5px solid #613EEA; 
+    line-height: 0.1em;
+    margin-left: 65%;
+    margin-bottom: 5%;
+    margin-top: 20%;
+}
+.painPoints span{
+    background: #000000; 
+    padding-left: 8px;
+}
+.contentRight{
+    text-align: right;
+    margin-bottom: 20%;
+}
+
+.brainStorming{
+    margin-bottom: 5%;
+}
+
+.contentbrain{
+    text-align: left;
+    margin-bottom: 5%;
+}
+.spantext{
+    padding-left: 4px;;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.colorsBlock{
+    display: flex;;
+    margin-bottom: 5% !important;;
+}
+.colorsBlock div{
+    border-radius: 50%;
+    margin: 1%;
+    border: #FFFFFF 2px solid;
+}
+.colorUsed{
+    margin-bottom: 5%;
+}
+
+.information{
+    text-align: right;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 20px;
+    /* identical to box height, or 44% */
+    letter-spacing: 1.1px;
+    color: #FFFFFF;
+    margin-top: 12%;
+    border-bottom: 5px solid #613EEA; 
+    line-height: 0.1em;
+    margin-left: 38%;
+    margin-top: 20% !important;
+    margin-bottom: 5% !important;
+}
+.information span{
+    background: #000000; 
+    padding-left: 8px;
+}
+.chart{
+    margin-top: 100px;
+    margin-bottom: 25%;
+}
+
+.screen1{
+    margin-top: 10%;
+}
+.screen2{
+    margin-top: 5% !important;
+}
+.picContent{
+    text-align: right;
+    padding: 8%;
+    padding-right: 10%;
+    margin-top: 20%;
+    /* margin-right: 5%;  */
+    line-height: 30px;
+    color: #fff;
+    font-size: 25px;
+}
+.picContent2{
+    text-align: left;
+}
+.pic{
+    text-align: center;
+}
+
+.LastSecond{
+    margin: 5%;
+    margin-top: 15%;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+
+/* project 2 */
+
+.backgroundp2{
+    background: #613EEA;
+}
+
+.headingp2{
+    font-family: Sarabun;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 28px;
+    /* identical to box height, or 58% */
+    letter-spacing: 1.5px;
+    color: #FFFFFF;
+}
+
+.headingp2_1{
+    margin-bottom: 10%;;
+    font-family: Sarabun;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 28px;
+    /* identical to box height, or 58% */
+    letter-spacing: 1.5px;
+    color: #613EEA;
+}
+
+.contentp2{
+    font-family: Sarabun;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 42px;
+    /* identical to box height, or 175% */
+    letter-spacing: 1.1px;
+    color: #fff;
+}
+
+@font-face {
+    font-family: Sarabun;
+    src: url(../img/xportfolio/project3/fonts/sarabun/Sarabun-Regular.ttf);
+}
+@font-face {
+    font-family: monospace1;
+    src: url(../img/xportfolio/inconsolata/Inconsolata-Regular.ttf);
+}
+.monospace{
+    font-family: monospace1;
+}
+.borderit_1{
+    border: 3px #fff solid;
+    padding: 2%;
+    margin-top: 2% ;
+}
+.borderit_2{
+    border: 3px #613EEA solid;
+    padding: 2%;
+    margin-top: 2% ;
+}
+
+.informations{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.pad{
+    padding-bottom: 4%;
+}
+
+.picontentp2{
+    text-align: left;
+    padding: 2%;
+    padding-top: 8%;
+    padding-right: 10%;
+    margin-top: 5%;
+    /* margin-right: 5%;  */
+    line-height: 30px;
+    color: #fff;
+    font-size: 25px;
+}
+.picontentp2_1{
+    text-align: right;
+    padding: 2%;
+    padding-top: 8%;
+    padding-left: 10%;
+    margin-top: 5%;
+    /* margin-right: 5%;  */
+    line-height: 30px;
+    color: #fff;
+    font-size: 25px;
+}
+.pic2{
+    text-align: center;
+}
+.contentp3{
+    text-align: right;
+    font-size: 18px !important;
+    font-weight: 600;
+    letter-spacing: 1.1px;
+    line-height: 28px;
+}
+.contentp3_1{
+    text-align: left;
+    font-size: 18px !important;
+    font-weight: 600;
+    letter-spacing: 1.1px;
+    line-height: 28px;
+}
+
+.thank{
+    margin-top: 10%;
+    font-family: Sarabun;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 28px;
+/* identical to box height, or 39% */
+
+letter-spacing: 1.1px;
+
+color: #613EEA;
+}
+
+
+.headingp10{
+    font-family: Montserrat;
+    font-size: 36px;
+    color: #01BDAE;
+    font-weight: bold;
+}
+/* project4 */
+
+.headingp4{
+    font-family: Montserrat;
+    font-size: 36px;
+    color: #F0426D;
+    font-weight: bold;
+}
+.contentp4{
+    font-family: Montserrat;
+    font-size: 20px;
+    padding-top: 5%;
+    text-align: left;
+}
+
+.pink{
+    color: #F0426D;
+}
+.borderit{
+    border: 2px #F0426D solid;
+    padding: 2%;
+    margin-top: 2% ;
+}
+
+.miniheadingp4{
+    font-size: 30px;
+}
+
+.image{
+    margin-top: 4%;;
+}
+.mySlides1, .mySlides2 {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.prev{
+    left: 0;
+}
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a grey background color */
+.prev:hover, .next:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.btnColor{
+    background: #613eea;
+    margin-top: 5%;
+}
+
+.extra{
+    margin-bottom: 5% !important;
+}
+
+
+.right_back{
+    background: url(../img/xportfolio/back/right.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.left_back{
+    background: url(../img/xportfolio/back/left.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pinkBorder{
+    border-left: 4px #F0426D solid;
+}
+
+.black{
+    color: black !important;
+}
+
+.btnColor1{
+    background: #F0426D;
+}
+.btnColor10{
+    background: #01BDAE;
+}
+
+.projectTitle{
+    font-weight: bold;
+}
+
+.borderit1{
+    border: 2px #4A2592 solid;
+    padding: 2%;
+    margin-top: 2% ;
+}
+.borderit2{
+    border: 2px #E12729 solid;
+    padding: 2%;
+    margin-top: 2% ;
+}
+.borderit3{
+    border: 2px #7E5AE1 solid;
+    padding: 2%;
+    margin-top: 2% ;
+}
+.head_hack{
+    color: #4A2592;
+    font-weight: bold;
+}
+.head_hack_1{
+    color: #E12729;
+    font-weight: bold;
+}
+
+.head_hack_2{
+    color: #7E5AE1;
+    font-weight: bold;
+}
+
+#imghere{
+    width: 100%;
+}
+
+#imgContain{
+    height: 0px;
+    overflow: hidden;
+    /* transition: height 1s ease-in-out; */
+    /* transition-property: height; */
+}
+
+.herex{
+    color: #7E5AE1;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.headit_1{
+    color: #F80640;
+}
+
+.me{
+    font-size: 20px;
+}
+
+.myaboutImage{
+    border-radius: 50%;
+}
+
+.tersusImg{
+    margin-bottom: 2%;
+    margin-top: -3%;
+}
+.miniheadingp10{
+    font-size: 22px;
+    margin-bottom: -2%;
+}
+.miniheadingp11{
+    font-size: 22px;
+    margin-bottom: -2%;
+}
+.blue{
+    color: #01BDAE;
+    font-weight: bold;
+    margin-left: 2%;
+}
+
+.borderit10{
+    border: 2px #01BDAE solid;
+    padding: 2%;
+    margin-top: 2% ;
+}
+
+.headingp12{
+    font-family: Montserrat;
+    font-size: 36px;
+    color: #01BDAE;
+    font-weight: bold;
+    margin-top: 2%;
+}
+
+.shadowit{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 2%;
+}
+
+.onhover:hover{
+    color: #F0426D;
+}
+.pinkborder1{
+    padding-left: 1%;
+}
+
+.grey{
+    color: grey;
+    font-size: 18px;
+}
+
+.portfolio-hover{
+    border-radius: 2%;
+}
